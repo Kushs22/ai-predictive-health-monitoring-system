@@ -79,7 +79,7 @@ ai-predictive-health-monitoring-system/
 ## 📊 Demo
 
 ![Dashboard](images/feature_importance.png)
-
+*Feature importance showing which vital signs most influence patient risk prediction.*
 ---
 
 ## ⚙️ Tech Stack
